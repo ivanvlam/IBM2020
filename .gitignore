@@ -1,0 +1,6 @@
+# Python and jupyter cache files
+__pycache__/
+*.py[cod]
+
+# Prevent from uploading the zip file to the repo
+*.zip
