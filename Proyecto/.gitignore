@@ -1,3 +1,11 @@
 *.xml
-model/jobs
+geometry/
+stuff/
+video/
+code/data
+code/model/jobs
+code/model/output
+code/model/Brain.fs2
+code/model/GM + WM.fs2
+code/model/Head.fs2
 *.asv
